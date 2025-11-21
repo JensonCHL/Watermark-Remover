@@ -67,7 +67,3 @@ PDF Processor/
 - If no watermark is found matching the specified text, the file is copied unchanged
 - If decryption fails, the file is processed as-is
 - The script handles errors gracefully and continues processing other files
-
-## License
-
-This project is based on work by ViKi-R and is provided for educational purposes.
